@@ -1,3 +1,3 @@
 # test-repo
 test
-i like men
+this is a test repository message. 

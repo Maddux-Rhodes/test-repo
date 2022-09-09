@@ -8,3 +8,7 @@ PRACTICING PULLING AND PUSHING, I AM YOUR FRIEND AVIK, I LOVE ESPORTS!!!
 =======
 This is Stephen adding a message to your ReadME ✌
 
+EDIT: In-Clss edit as of 9/9 @ 11:00am 
+Editing this file to make sure I can properly use GitHub for software dev. 
+
+Have a nice weekend! 
